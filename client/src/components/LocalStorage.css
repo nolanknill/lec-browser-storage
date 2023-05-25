@@ -1,0 +1,16 @@
+.form {
+    display:flex;
+    flex-direction: column;
+}
+
+.form > label {
+    margin-bottom: 1rem;
+}
+
+.form input {
+    margin-left: 0.5rem;
+}
+
+.form__submit {
+    width: 10rem;
+}
